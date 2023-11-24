@@ -1,0 +1,19 @@
+Nombre: Agustin
+
+Apellidos: Ricci Calete
+
+Carrera: Diseño Multimedial
+
+Turno: Tarde
+
+Modalidad: Presencial
+
+Comision: DMTT02CP
+
+Dias de cursada: Lunes, Miercoles y Viernes
+
+Materia: Maquetado y Desarrollo Web
+
+Feche y horario de materia: Viernes 16:10
+
+Profesor: Jorge Samuelle
